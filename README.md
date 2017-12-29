@@ -1,3 +1,3 @@
-# luceneDemo
+https://github.com/EvanJonQiu/luceneDemo.git
 
-A example of lucene core.
+lucene grouping模块学习
